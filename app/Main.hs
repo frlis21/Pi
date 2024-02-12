@@ -1,6 +1,6 @@
 module Main (main) where
 
-import Lib
-
+-- Eventually the CLI to the interpreter
+-- and normalizer will go here!
 main :: IO ()
-main = someFunc
+main = putStrLn "Hello, world!"
